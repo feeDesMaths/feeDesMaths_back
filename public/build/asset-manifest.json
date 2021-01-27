@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1337ca9a.chunk.css",
+    "main.js": "/static/js/main.bea92e31.chunk.js",
+    "main.js.map": "/static/js/main.bea92e31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.2b7a57ef.chunk.css": "/static/css/2.2b7a57ef.chunk.css",
+    "static/js/2.92b39b4b.chunk.js": "/static/js/2.92b39b4b.chunk.js",
+    "static/js/2.92b39b4b.chunk.js.map": "/static/js/2.92b39b4b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13ecd309716459e034868ca8fdccb0b0.js": "/precache-manifest.13ecd309716459e034868ca8fdccb0b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2b7a57ef.chunk.css.map": "/static/css/2.2b7a57ef.chunk.css.map",
+    "static/css/main.1337ca9a.chunk.css.map": "/static/css/main.1337ca9a.chunk.css.map",
+    "static/js/2.92b39b4b.chunk.js.LICENSE.txt": "/static/js/2.92b39b4b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Chalkduster.39f58371.woff",
+    "static/media/ecriture.jpg": "/static/media/ecriture.28a8a03f.jpg",
+    "static/media/hommeordi.jpg": "/static/media/hommeordi.899403c3.jpg",
+    "static/media/logoFeeDesMaths.png": "/static/media/logoFeeDesMaths.66c6ea12.png",
+    "static/media/math.jpg": "/static/media/math.42b49eee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.2b7a57ef.chunk.css",
+    "static/js/2.92b39b4b.chunk.js",
+    "static/css/main.1337ca9a.chunk.css",
+    "static/js/main.bea92e31.chunk.js"
+  ]
+}
